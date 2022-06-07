@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7E43804E-0241-4C07-99BE-FD40587179E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98482FC5-ACF6-4B86-9742-DA7AF4DB0C8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "98482FC5-ACF6-4B86-9742-DA7AF4DB0C8C - e90e2e289279bbad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RideSharer.MapViewController"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chy/XCodeProjects/RideSharer_Map_Start/RideSharer/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "98482FC5-ACF6-4B86-9742-DA7AF4DB0C8C - 576cd64a89519526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.MapViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RideSharer.MapViewController&gt;"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chy/XCodeProjects/RideSharer_Map_Start/RideSharer/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
